@@ -1,6 +1,6 @@
 # 👋 Hi, I'm an Aspiring Software Development Engineer
 
-![WhatsApp Image 2026-01-13 at 00 55 59](https://github.com/user-attachments/assets/b4d58437-0d96-48af-8a26-7067706a4e08)
+   ![WhatsApp Image 2026-01-13 at 00 55 59](https://github.com/user-attachments/assets/b4d58437-0d96-48af-8a26-7067706a4e08)
 
 
 
@@ -48,6 +48,76 @@ This mindset helps me design systems that are not only functional, but also **ro
 I believe great software is built through **thoughtful design, deep understanding, and engineering discipline**.
 
 ---
+
+## 🔧 Tech Stack
+
+### 💻 Programming Languages
+- **Java** – Primary language for DSA, backend development, concurrency, and performance-oriented systems  
+- **Python** – Scripting, automation, data handling, and security tooling  
+- **C/C++ (Basics)** – Low-level understanding of memory, pointers, and system behavior  
+
+---
+
+### 🧠 Data Structures & Algorithms
+- Arrays, Strings, Linked Lists, Stacks, Queues  
+- Trees, Heaps, Tries, Graphs  
+- Hashing, Sliding Window, Two Pointers  
+- Dynamic Programming, Greedy Algorithms  
+- Recursion, Backtracking, Divide & Conquer  
+- Strong focus on **time–space optimization** and **edge-case handling**
+
+---
+
+### 🏗 Backend & System Design
+- **RESTful APIs** – Design, versioning, validation, and error handling  
+- **Object-Oriented Design** – SOLID principles, clean architecture, design patterns  
+- **Concurrency & Multithreading** – Thread safety, synchronization, performance considerations  
+- **Scalability Concepts** – Load balancing, caching, horizontal scaling  
+- **Failure Handling** – Retries, timeouts, graceful degradation
+
+---
+
+### 🗄 Databases & Storage
+- **Relational Databases (MySQL / PostgreSQL)**  
+  - Indexing, normalization, joins, transactions, ACID properties  
+- **Caching Concepts** – In-memory caching, cache invalidation strategies  
+- **Data Modeling** – Designing schemas for performance and consistency
+
+---
+
+### 🌐 Networking & Distributed Systems
+- HTTP/HTTPS, REST semantics  
+- TCP/IP fundamentals  
+- Latency, throughput, reliability trade-offs  
+- Distributed system principles:  
+  - Consistency, availability, partition tolerance (CAP)  
+  - Fault tolerance and replication basics
+
+---
+
+### 🔐 Security & Reliability (Cybersecurity Mindset)
+- Secure coding practices and input validation  
+- Authentication & authorization fundamentals  
+- Understanding of common vulnerabilities (SQL injection, XSS, CSRF)  
+- Threat modeling and attack surface awareness  
+- Failure mode analysis and defensive system design  
+- Logging, monitoring, and observability basics
+
+---
+
+### 🛠 Tools & Platforms
+- **Git & GitHub** – Version control, collaboration, code reviews  
+- **Linux** – Command-line usage, process management, permissions  
+- **Docker (Basics)** – Containerization and deployment fundamentals  
+- **CI/CD Concepts** – Build pipelines, automated testing, reliability checks
+
+---
+
+### 🎯 Engineering Focus
+- Writing **predictable, testable, and maintainable code**  
+- Designing systems with **security and failure in mind**  
+- Strong emphasis on **correctness, simplicity, and long-term scalability**
+ 
 
 ## 🚀 What I'm Looking For
 
