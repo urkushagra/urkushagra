@@ -1,5 +1,9 @@
 # 👋 Hi, I'm an Aspiring Software Development Engineer
 
+![WhatsApp Image 2026-01-13 at 00 55 59](https://github.com/user-attachments/assets/b4d58437-0d96-48af-8a26-7067706a4e08)
+
+
+
 ## 👨‍💻 About Me
 
 I am an **aspiring Software Development Engineer** with a strong foundation in **Data Structures & Algorithms, backend development, and system design**, driven by a deep curiosity about how **large-scale systems operate beneath the abstractions**. I enjoy exploring how data flows through systems, how failures emerge in real-world environments, and how **resilient, scalable software** is designed to handle those challenges gracefully.
