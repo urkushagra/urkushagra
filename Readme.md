@@ -1,6 +1,12 @@
 # 👋 Hi, I'm an Aspiring Software Development Engineer
 
-   ![WhatsApp Image 2026-01-13 at 00 55 59](https://github.com/user-attachments/assets/b4d58437-0d96-48af-8a26-7067706a4e08)
+   <p align="center">
+  <img 
+    src="https://github.com/user-attachments/assets/b4d58437-0d96-48af-8a26-7067706a4e08"
+    width="450"
+  />
+</p>
+
 
 
 
