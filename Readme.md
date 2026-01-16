@@ -1,4 +1,4 @@
- # 👋 Hey there, I'm Kushagra  
+ # 👀 Hey there, I'm Kushagra 👀 
  #  Aspiring SDE | Curious about systems, scale, and how things break
 
 
