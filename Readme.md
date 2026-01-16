@@ -1,4 +1,6 @@
-# 👋 Hi, I'm an Aspiring Software Development Engineer
+ # 👋 Hey there, I'm Kushagra  
+Aspiring SDE | Curious about systems, scale, and how things break
+
 
    <p align="center">
   <img 
