@@ -193,13 +193,11 @@ I believe great software is built through **deep thinking, strong fundamentals, 
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=urkushagra&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api?username=urkushagra&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urkushagra&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=urkushagra&theme=tokyonight" />
 
 </p>
-
----
 
 ## 🚀 What I'm Looking For
 
