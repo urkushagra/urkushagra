@@ -202,6 +202,15 @@ I believe great software is built through **deep thinking, strong fundamentals, 
 
 </p>
 
+
+---
+
+## 🧠 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/kushagrayay17?theme=dark&font=Karma&ext=heatmap"/>
+</p>
+
 ## 🚀 What I'm Looking For
 
 I am actively looking for **Software Development Engineer (SDE)** opportunities at **product-driven companies** where engineering depth truly matters.
