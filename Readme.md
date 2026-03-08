@@ -211,10 +211,11 @@ I believe great software is built through **deep thinking, strong fundamentals, 
 <img src="https://leetcard.jacoblin.cool/kushagrayay17?theme=dark&font=Karma&ext=heatmap"/>
 </p>
 
----
 ## 📈 LeetCode Activity
 
+<p align="center">
 <img src="https://leetcode-stats.vercel.app/api?username=kushagrayay17&theme=dark"/>
+</p>
 
 ## 🚀 What I'm Looking For
 
