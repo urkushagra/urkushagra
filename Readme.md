@@ -190,10 +190,10 @@ I believe great software is built through **deep thinking, strong fundamentals, 
 ---
 
 
-## 🐍 Contribution Snake
+
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/urkushagra/urkushagra/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/urkushagra/urkushagra/output/github-contribution-grid-snake.svg"/>
 </p>
 
 
