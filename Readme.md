@@ -1,141 +1,216 @@
- # 👀 Hey there, I'm Kushagra 👀 
- #  Aspiring SDE | Curious about systems, scale, and how things break
+# 👋 Hi, I'm Kushagra
 
+🚀 **Aspiring Software Development Engineer**
+🧠 Curious about **systems, scale, and failure engineering**
 
-   <p align="center">
-  <img 
-    src="https://github.com/user-attachments/assets/b4d58437-0d96-48af-8a26-7067706a4e08"
-    width="450"
-  />
+---
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b4d58437-0d96-48af-8a26-7067706a4e08" width="420"/>
 </p>
 
-
-
+---
 
 ## 👨‍💻 About Me
 
-I am an **aspiring Software Development Engineer** with a strong foundation in **Data Structures & Algorithms, backend development, and system design**, driven by a deep curiosity about how **large-scale systems operate beneath the abstractions**. I enjoy exploring how data flows through systems, how failures emerge in real-world environments, and how **resilient, scalable software** is designed to handle those challenges gracefully.
+I’m a **Computer Science undergraduate** passionate about understanding **how large-scale systems actually work behind the abstractions**.
 
-With **1000+ problems solved on LeetCode**, I have developed disciplined problem-solving habits and a strong ability to write **efficient, predictable, and scalable code**. My primary language for DSA is **Java**, and I am comfortable translating theoretical concepts into **practical, production-oriented solutions**. This journey has strengthened my understanding of **time–space tradeoffs, algorithmic optimizations, and clean code principles**.
+My interests lie in:
 
----
+* **Backend Engineering**
+* **Distributed Systems**
+* **System Design**
+* **Performance & Reliability**
+* **Security-minded development**
 
-## 🧠 Core Computer Science Fundamentals
+I enjoy exploring how:
 
-I have a solid grasp of core CS concepts, including:
+* Data flows through systems
+* Failures emerge in production environments
+* Scalable architectures handle real-world traffic
 
-- **Operating Systems**  
-  Processes, threads, memory management, concurrency
-
-- **Computer Networks**  
-  HTTP, TCP/IP, latency, reliability
-
-- **Databases**  
-  Relational concepts, indexing, transactions
-
-- **Distributed Systems**  
-  Scalability, fault tolerance, consistency models
+My goal is to build **software that is not only functional but also resilient, scalable, and secure**.
 
 ---
 
-## 🔐 Interests Beyond Software Engineering
+## 🧠 Problem Solving Journey
 
-Beyond traditional software engineering, I have a growing interest in **cybersecurity and system reliability**. I enjoy thinking from both the **builder’s and breaker’s perspective**—analyzing edge cases, identifying failure modes, and understanding security vulnerabilities that are often overlooked in surface-level implementations.
+🧩 **1000+ problems solved on LeetCode**
 
-This mindset helps me design systems that are not only functional, but also **robust, secure, and production-ready**.
+Through algorithmic problem solving I have developed strong skills in:
 
----
+* Writing **efficient algorithms**
+* Optimizing **time and space complexity**
+* Handling **edge cases**
+* Building **clean and predictable code**
 
-## 🧩 Engineering Philosophy
-
-- Clean architecture over quick hacks  
-- Correctness and predictability over shortcuts  
-- Strong fundamentals before frameworks  
-- Long-term maintainability over temporary fixes  
-
-I believe great software is built through **thoughtful design, deep understanding, and engineering discipline**.
+**Primary DSA Language:** `Java`
 
 ---
 
-## 🔧 Tech Stack
+## 🧩 Core Computer Science Fundamentals
+
+Strong understanding of foundational CS concepts:
+
+### ⚙️ Operating Systems
+
+* Processes & Threads
+* Memory Management
+* Concurrency & Synchronization
+
+### 🌐 Computer Networks
+
+* HTTP / HTTPS
+* TCP/IP fundamentals
+* Latency & reliability
+
+### 🗄 Databases
+
+* Relational modeling
+* Indexing & query optimization
+* Transactions & ACID properties
+
+### ☁️ Distributed Systems
+
+* Scalability principles
+* Fault tolerance
+* Consistency models (CAP)
+
+---
+
+## 🔐 Engineering Mindset
+
+I enjoy thinking from **both the builder’s and attacker’s perspective**.
+
+This helps me design systems that are:
+
+✔ Robust
+✔ Secure
+✔ Production-ready
+
+I actively explore:
+
+* Failure modes
+* Security vulnerabilities
+* System reliability patterns
+
+---
+
+## 🛠 Tech Stack
 
 ### 💻 Programming Languages
-- **Java** – Primary language for DSA, backend development, concurrency, and performance-oriented systems  
-- **Python** – Scripting, automation, data handling, and security tooling  
-- **C/C++ (Basics)** – Low-level understanding of memory, pointers, and system behavior  
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 
 ---
 
 ### 🧠 Data Structures & Algorithms
-- Arrays, Strings, Linked Lists, Stacks, Queues  
-- Trees, Heaps, Tries, Graphs  
-- Hashing, Sliding Window, Two Pointers  
-- Dynamic Programming, Greedy Algorithms  
-- Recursion, Backtracking, Divide & Conquer  
-- Strong focus on **time–space optimization** and **edge-case handling**
+
+* Arrays, Strings, Linked Lists
+* Trees, Graphs, Tries, Heaps
+* Sliding Window & Two Pointers
+* Greedy Algorithms
+* Dynamic Programming
+* Recursion & Backtracking
+
+Focus on:
+
+⚡ Time–Space Optimization
+⚡ Edge Case Handling
+⚡ Algorithmic Clarity
 
 ---
 
 ### 🏗 Backend & System Design
-- **RESTful APIs** – Design, versioning, validation, and error handling  
-- **Object-Oriented Design** – SOLID principles, clean architecture, design patterns  
-- **Concurrency & Multithreading** – Thread safety, synchronization, performance considerations  
-- **Scalability Concepts** – Load balancing, caching, horizontal scaling  
-- **Failure Handling** – Retries, timeouts, graceful degradation
+
+* REST API Design
+* Clean Architecture
+* SOLID Principles
+* Design Patterns
+* Concurrency & Multithreading
+* Load balancing concepts
+* Caching strategies
 
 ---
 
-### 🗄 Databases & Storage
-- **Relational Databases (MySQL / PostgreSQL)**  
-  - Indexing, normalization, joins, transactions, ACID properties  
-- **Caching Concepts** – In-memory caching, cache invalidation strategies  
-- **Data Modeling** – Designing schemas for performance and consistency
+### 🗄 Databases
+
+* MySQL / PostgreSQL
+* Indexing & Query Optimization
+* Schema Design
+* Transaction Management
 
 ---
 
 ### 🌐 Networking & Distributed Systems
-- HTTP/HTTPS, REST semantics  
-- TCP/IP fundamentals  
-- Latency, throughput, reliability trade-offs  
-- Distributed system principles:  
-  - Consistency, availability, partition tolerance (CAP)  
-  - Fault tolerance and replication basics
+
+* HTTP / REST semantics
+* TCP/IP fundamentals
+* Latency vs Throughput trade-offs
+* Replication & fault tolerance
 
 ---
 
-### 🔐 Security & Reliability (Cybersecurity Mindset)
-- Secure coding practices and input validation  
-- Authentication & authorization fundamentals  
-- Understanding of common vulnerabilities (SQL injection, XSS, CSRF)  
-- Threat modeling and attack surface awareness  
-- Failure mode analysis and defensive system design  
-- Logging, monitoring, and observability basics
+### 🔐 Security Awareness
+
+* Secure coding practices
+* Input validation
+* Authentication & authorization
+* SQL Injection / XSS / CSRF awareness
+* Threat modeling
 
 ---
 
-### 🛠 Tools & Platforms
-- **Git & GitHub** – Version control, collaboration, code reviews  
-- **Linux** – Command-line usage, process management, permissions  
-- **Docker (Basics)** – Containerization and deployment fundamentals  
-- **CI/CD Concepts** – Build pipelines, automated testing, reliability checks
+### ⚙️ Tools & Platforms
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge\&logo=linux\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+
+* Git & GitHub
+* Linux CLI
+* Docker (containerization basics)
+* CI/CD concepts
 
 ---
 
-### 🎯 Engineering Focus
-- Writing **predictable, testable, and maintainable code**  
-- Designing systems with **security and failure in mind**  
-- Strong emphasis on **correctness, simplicity, and long-term scalability**
- 
+## 🧭 Engineering Philosophy
+
+```
+Clean architecture > Quick hacks
+Correctness > Shortcuts
+Strong fundamentals > Framework hype
+Maintainability > Temporary fixes
+```
+
+I believe great software is built through **deep thinking, strong fundamentals, and disciplined engineering.**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=urkushagra&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urkushagra&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
 
 ## 🚀 What I'm Looking For
 
-I am actively seeking **Software Development Engineer (SDE)** opportunities at **product-driven companies** where **engineering depth, system thinking, and long-term impact** truly matter.
+I am actively looking for **Software Development Engineer (SDE)** opportunities at **product-driven companies** where engineering depth truly matters.
 
-I am eager to:
-- Learn from real-world, large-scale systems  
-- Collaborate with strong engineering teams  
-- Contribute to building **reliable, scalable, and meaningful software**
+I want to:
+
+* Work on **large-scale systems**
+* Learn from **strong engineering teams**
+* Build **reliable and scalable software**
 
 ---
 
-⭐ *If you find my work interesting, feel free to explore my repositories or connect with me!*
+⭐ If you find my work interesting, feel free to **explore my repositories or connect with me!**
