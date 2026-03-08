@@ -207,14 +207,14 @@ I believe great software is built through **deep thinking, strong fundamentals, 
 
 ## 🧠 LeetCode Stats
 
-<p align="center">
+<p align="right">
 <img src="https://leetcard.jacoblin.cool/kushagrayay17?theme=dark&font=Karma&ext=heatmap"/>
 </p>
 
 ---
 ## 🏅 LeetCode Badges
 
-<p align="center">
+<p align="left">
 <img src="https://leetcode-badge-showcase.vercel.app/api?username=kushagrayay17&theme=dark"/>
 </p>
 
