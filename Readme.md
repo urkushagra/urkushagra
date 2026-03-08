@@ -214,7 +214,7 @@ I believe great software is built through **deep thinking, strong fundamentals, 
 ---
 ## 📈 LeetCode Activity
 
-<img src="https://leetcode-stats.vercel.app/api?username=YOUR_LEETCODE_USERNAME&theme=dark"/>
+<img src="https://leetcode-stats.vercel.app/api?username=kushagrayay17&theme=dark"/>
 
 ## 🚀 What I'm Looking For
 
