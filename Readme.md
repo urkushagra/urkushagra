@@ -193,7 +193,7 @@ I believe great software is built through **deep thinking, strong fundamentals, 
 
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/urkushagra/urkushagra/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/urkushagra/urkushagra/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 
