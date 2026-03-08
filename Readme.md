@@ -191,6 +191,22 @@ I believe great software is built through **deep thinking, strong fundamentals, 
 
 ## 📊 GitHub Stats
 
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=urkushagra&show_icons=true&theme=tokyonight"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=urkushagra&theme=tokyonight"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=urkushagra&layout=compact&theme=tokyonight"/>
+
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/urkushagra/urkushagra/output/github-contribution-grid-snake.svg"/>
+</p>
+
 
 
 
