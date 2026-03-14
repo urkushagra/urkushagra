@@ -6,9 +6,11 @@
 
 
 
-<p align="centre">
-🧠 Passionate about understanding how systems work at scale, how failures emerge, and how resilient software is engineered to handle real-world complexity
-</p>
+<h3 align="center">
+
+🧠 Passionate about understanding **systems at scale**, how **failures emerge**, and how **resilient software** is engineered for **real-world complexity**
+
+</h3>
 
 ## 👨‍💻 About Me
 
