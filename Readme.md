@@ -1,4 +1,4 @@
-<h2 align="center">Kushagra here 👋 — exploring systems, scale, and software engineering.</h2>
+<h1 align="center">Kushagra here 👋 — exploring systems, scale, and software engineering.</h1>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/urkushagra/urkushagra/main/qw.png" width="750"/>
@@ -6,11 +6,10 @@
 
 
 
-<p align="center">
-🚀 **Aspiring Software Development Engineer**
-🧠 Curious about **systems, scale, and failure engineering**
+<p align="right">
+🚀 Aspiring Software Development Engineer
+🧠 Passionate about understanding how systems work at scale, how failures emerge, and how resilient software is engineered to handle real-world complexity
 </p>
----
 
 ## 👨‍💻 About Me
 
