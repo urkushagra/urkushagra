@@ -1,18 +1,14 @@
-# 👋 Hi, I'm Kushagra
 
-🚀 **Aspiring Software Development Engineer**
-🧠 Curious about **systems, scale, and failure engineering**
-
----
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/urkushagra/urkushagra/main/qw.png" width="750"/>
 </p>
 
-<h1 align="center">Hi 👋 I'm Kushagra</h1>
+<h2 align="center">Kushagra here 👋 — exploring systems, scale, and software engineering.</h2>
 
 <p align="center">
-Aspiring Software Development Engineer | Systems & Scalability Enthusiast
+🚀 **Aspiring Software Development Engineer**
+🧠 Curious about **systems, scale, and failure engineering**
 </p>
 ---
 
