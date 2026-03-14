@@ -1,10 +1,10 @@
-
+<h2 align="center">Kushagra here 👋 — exploring systems, scale, and software engineering.</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/urkushagra/urkushagra/main/qw.png" width="750"/>
 </p>
 
-<h2 align="center">Kushagra here 👋 — exploring systems, scale, and software engineering.</h2>
+
 
 <p align="center">
 🚀 **Aspiring Software Development Engineer**
