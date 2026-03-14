@@ -6,9 +6,14 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/urkushagra/urkushagra/main/qw.png" width="700"/>
+  <img src="https://raw.githubusercontent.com/urkushagra/urkushagra/main/qw.png" width="750"/>
 </p>
 
+<h1 align="center">Hi 👋 I'm Kushagra</h1>
+
+<p align="center">
+Aspiring Software Development Engineer | Systems & Scalability Enthusiast
+</p>
 ---
 
 ## 👨‍💻 About Me
