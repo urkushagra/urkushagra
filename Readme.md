@@ -6,8 +6,7 @@
 
 
 
-<p align="right">
-🚀 Aspiring Software Development Engineer
+<p align="centre">
 🧠 Passionate about understanding how systems work at scale, how failures emerge, and how resilient software is engineered to handle real-world complexity
 </p>
 
