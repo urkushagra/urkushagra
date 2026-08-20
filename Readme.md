@@ -24,7 +24,7 @@ Java Backend Engineer • System Design Enthusiast • Problem Solver
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science undergraduate at **Vellore Institute of Technology** focused on becoming a strong **Software Development Engineer**, with a particular interest in **Java backend engineering, distributed systems, and system design**.
+I'm a Computer Science undergraduate at **Vellore Institute of Technology** focused on becoming a strong **Software Development Engineer**, with a particular interest in **Java backend engineering, distributed systems, and system design**.
 
 I enjoy going beyond frameworks and understanding what happens underneath:
 
